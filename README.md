@@ -101,7 +101,7 @@ You should install NPM.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-People can have fun playing Connect 4 very conveniently.
+Users can have fun playing Connect 4 very conveniently.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
