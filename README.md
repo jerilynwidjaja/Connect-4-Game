@@ -22,15 +22,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jerilynwidjaja/TicTacToe">
+  <a href="https://github.com/jerilynwidjaja/Connect-4-Game">
   </a>
 
-<h3 align="center">TicTacToe</h3>
+<h3 align="center">Connect-4-Game</h3>
 
   <p align="center">
-    TicTacToe Game App for 2 Players
+    Connect-4-Game Game for 1 or 2 Players
     <br />
-    <a href="https://github.com/jerilynwidjaja/TicTacToe"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jerilynwidjaja/Connect-4-Game"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -53,7 +53,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -64,7 +63,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Simple TicTacToe game app created with Java.
+Simple Connect-4-Game game created with C.
 
 
 
@@ -87,13 +86,13 @@ You should install NPM.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jerilynwidjaja/TicTacToe.git
+   git clone https://github.com/jerilynwidjaja/Connect-4-Game.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
-3. Run in your local terminal
+3. Run in your local IDE
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,7 +101,7 @@ You should install NPM.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-People can use this game app to play Tic Tac Toe very conveniently.
+People can have fun playing Connect 4 very conveniently.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +138,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Email - jerilynwidjaja@gmail.com
 
-Project Link: [https://github.com/jerilynwidjaja/TicTacToe](https://github.com/jerilynwidjaja/TicTacToe)
+Project Link: [https://github.com/jerilynwidjaja/Connect-4-Game](https://github.com/jerilynwidjaja/Connect-4-Game)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,14 +147,14 @@ Project Link: [https://github.com/jerilynwidjaja/TicTacToe](https://github.com/j
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jerilynwidjaja/TicTacToe.svg?style=for-the-badge
-[contributors-url]: https://github.com/jerilynwidjaja/TicTacToe/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jerilynwidjaja/TicTacToe.svg?style=for-the-badge
-[forks-url]: https://github.com/jerilynwidjaja/TicTacToe/network/members
-[stars-shield]: https://img.shields.io/github/stars/jerilynwidjaja/TicTacToe.svg?style=for-the-badge
-[stars-url]: https://github.com/jerilynwidjaja/TicTacToe/stargazers
-[license-shield]: https://img.shields.io/github/license/jerilynwidjaja/TicTacToe.svg?style=for-the-badge
-[license-url]: https://github.com/jerilynwidjaja/TicTacToe/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/jerilynwidjaja/Connect-4-Game.svg?style=for-the-badge
+[contributors-url]: https://github.com/jerilynwidjaja/Connect-4-Game/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jerilynwidjaja/Connect-4-Game.svg?style=for-the-badge
+[forks-url]: https://github.com/jerilynwidjaja/Connect-4-Game/network/members
+[stars-shield]: https://img.shields.io/github/stars/jerilynwidjaja/Connect-4-Game.svg?style=for-the-badge
+[stars-url]: https://github.com/jerilynwidjaja/Connect-4-Game/stargazers
+[license-shield]: https://img.shields.io/github/license/jerilynwidjaja/Connect-4-Game.svg?style=for-the-badge
+[license-url]: https://github.com/jerilynwidjaja/Connect-4-Game/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jerilyn-widjaja-2436a9228
 [product-screenshot]: images/screenshot.png
