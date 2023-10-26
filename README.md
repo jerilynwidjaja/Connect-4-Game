@@ -25,7 +25,7 @@
   <a href="https://github.com/jerilynwidjaja/Connect-4-Game">
   </a>
 
-<h3 align="center">Connect-4-Game</h3>
+<h3 align="center">Connect 4 Game</h3>
 
   <p align="center">
     Connect 4 Game for 1 or 2 Players
